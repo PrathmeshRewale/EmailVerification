@@ -1,2 +1,2 @@
 # EmailVerification
-Email Verification Using Python
+Email Verification API Using Python
